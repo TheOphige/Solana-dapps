@@ -5,7 +5,7 @@ pub mod errors;
 
 use instructions::send_tip::*;
 
-declare_id!("DyC9Xyx6VNyCV5BSHDss2qkoShMDMErt563DTNzz5GXA");
+declare_id!("G85GYMTsHW7k4HpvMqFzp2wBotpGM7ZK4n2beivLNK4e");
 
 #[program]
 pub mod tiplink {

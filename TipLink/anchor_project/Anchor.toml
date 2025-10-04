@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-tiplink = "DyC9Xyx6VNyCV5BSHDss2qkoShMDMErt563DTNzz5GXA"
+tiplink = "G85GYMTsHW7k4HpvMqFzp2wBotpGM7ZK4n2beivLNK4e"
 
 [registry]
 url = "https://api.apr.dev"
